@@ -1,0 +1,14 @@
+@media(min-width: 360px) and (max-width:760px){
+    .about-img{
+        width: 300px !important;
+    }
+    
+}
+
+.t-card{
+    margin-bottom: 20px;
+}
+
+.c-cart{
+    margin-bottom: 70px;
+}
